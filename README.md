@@ -11,7 +11,7 @@ Implementation of Conway's Game of Life in python.
 ``` 
 pipenv install
 ```
-2. Make sure the virutal environment is being used. If not, activate with
+2. Make sure the virtual environment is being used. If not, activate with
 ```
 pipenv shell
 ``` 
